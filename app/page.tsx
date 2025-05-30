@@ -25,7 +25,7 @@ export default function Home() {
       <div className="container mx-auto px-4 py-8">
         <div className="flex justify-between items-center mb-4">
           <div>
-            <h1 className="text-3xl font-bold text-white">Resolver v1.0.0</h1>
+            <h1 className="text-3xl font-bold text-white">Resolver v1.0</h1>
             <p className="text-sm text-slate-400">
               No more cryptic errors. Vomits full JSON response from endpoint so you know for sure.
             </p>
