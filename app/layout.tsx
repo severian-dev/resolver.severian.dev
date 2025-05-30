@@ -6,7 +6,7 @@ const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
   title: 'Resolver',
-  description: 'A powerful proxy service for accessing and transforming API responses',
+  description: 'No more cryptic Janitor errors',
   icons: {
     icon: [
       { url: '/favicon.ico' },
